@@ -12,7 +12,6 @@ function render(component, container) {
 
 const renderApp = () =>render(TodoApp(), document.getElementById('app'));
 store.subscribe(() => {
-  console.log(store.getState())
   renderApp();
 });
 store.dispatch(fetchTodos())

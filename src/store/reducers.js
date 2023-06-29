@@ -3,18 +3,7 @@ import { addTodo, updateTodo, deleteTodo, fetchTodos, setEditingTodo, changeVote
 import { cloneDeep } from 'lodash';
 
 const initialState = {
-  todos: [{
-    "id": "1",
-    "name": "Toggl",
-    "description": "Toggl is a simple and intuitive time tracking tool with powerful reporting features. It offers desktop and mobile apps, as well as browser extensions.",
-    "url": "https://toggl.com/",
-    "image_url": "https://example.com/images/toggl.png",
-    "descriptors": {
-      "Pricing": "Freemium",
-      "Platforms": "Web, Windows, macOS, iOS, Android",
-      "Integrations": "Asana, Trello, Slack, Jira, and more"
-    }
-  }],
+  todos: [],
   //copy of current edited TODO
   editingTodo: null
 };

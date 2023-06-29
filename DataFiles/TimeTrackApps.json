@@ -1,10 +1,11 @@
+{ "todos":
 [
     {
       "id": 1,
       "name": "Toggl",
       "description": "Toggl is a popular time tracking app with a clean and intuitive interface.",
       "url": "https://www.toggl.com/",
-      "image_url": "https://example.com/toggl.png",
+      "image_url": "https://picsum.photos/200",
       "value": "toggl",
       "keyValueDescriptors": {
         "Platform": "Web, Mobile",
@@ -18,7 +19,7 @@
       "name": "Harvest",
       "description": "Harvest is a powerful time tracking and invoicing software for teams and freelancers.",
       "url": "https://www.getharvest.com/",
-      "image_url": "https://example.com/harvest.png",
+      "image_url": "https://picsum.photos/200",
       "value": "harvest",
       "keyValueDescriptors": {
         "Platform": "Web, Mobile",
@@ -32,7 +33,7 @@
       "name": "Clockify",
       "description": "Clockify is a free time tracking app for individuals and teams with advanced reporting features.",
       "url": "https://clockify.me/",
-      "image_url": "https://example.com/clockify.png",
+      "image_url": "https://picsum.photos/200",
       "value": "clockify",
       "keyValueDescriptors": {
         "Platform": "Web, Mobile, Desktop",
@@ -46,7 +47,7 @@
       "name": "RescueTime",
       "description": "RescueTime helps you understand your daily digital habits and improve productivity.",
       "url": "https://www.rescuetime.com/",
-      "image_url": "https://example.com/rescuetime.png",
+      "image_url": "https://picsum.photos/200",
       "value": "rescuetime",
       "keyValueDescriptors": {
         "Platform": "Web, Desktop, Mobile",
@@ -60,7 +61,7 @@
       "name": "Hubstaff",
       "description": "Hubstaff offers time tracking, employee monitoring, and team management features for remote teams.",
       "url": "https://hubstaff.com/",
-      "image_url": "https://example.com/hubstaff.png",
+      "image_url": "https://picsum.photos/200",
       "value": "hubstaff",
       "keyValueDescriptors": {
         "Platform": "Web, Desktop, Mobile",
@@ -68,13 +69,13 @@
         "Integrations": "20+ integrations available",
         "Pricing": "Paid plans starting from $7/month per user"
       }
-    },[
-        {
+    },
+    {
           "id": 6,
           "name": "Everhour",
           "description": "Everhour is a time tracking and project management tool designed for teams and agencies.",
           "url": "https://everhour.com/",
-          "image_url": "https://example.com/everhour.png",
+          "image_url": "https://picsum.photos/200",
           "value": "everhour",
           "keyValueDescriptors": {
             "Platform": "Web, Browser Extension",
@@ -82,13 +83,13 @@
             "Integrations": "30+ integrations available",
             "Pricing": "Paid plans starting from $8/month per user"
           }
-        },
-        {
+    },
+    {
           "id": 7,
           "name": "Timely",
           "description": "Timely is an automatic time tracking app that captures and logs your activities in the background.",
           "url": "https://timelyapp.com/",
-          "image_url": "https://example.com/timely.png",
+          "image_url": "https://picsum.photos/200",
           "value": "timely",
           "keyValueDescriptors": {
             "Platform": "Web, Mobile, Desktop",
@@ -96,13 +97,13 @@
             "Integrations": "10+ integrations available",
             "Pricing": "Paid plans starting from $7/month per user"
           }
-        },
-        {
+    },
+    {
           "id": 8,
           "name": "Paymo",
           "description": "Paymo is a comprehensive project management and time tracking software for small to medium-sized businesses.",
           "url": "https://www.paymoapp.com/",
-          "image_url": "https://example.com/paymo.png",
+          "image_url": "https://picsum.photos/200",
           "value": "paymo",
           "keyValueDescriptors": {
             "Platform": "Web, Mobile, Desktop",
@@ -110,13 +111,13 @@
             "Integrations": "20+ integrations available",
             "Pricing": "Paid plans starting from $11.95/month per user"
           }
-        },
-        {
+    },
+    {
           "id": 9,
           "name": "ClickUp",
           "description": "ClickUp is an all-in-one productivity platform that includes time tracking, project management, and collaboration features.",
           "url": "https://clickup.com/",
-          "image_url": "https://example.com/clickup.png",
+          "image_url": "https://picsum.photos/200",
           "value": "clickup",
           "keyValueDescriptors": {
             "Platform": "Web, Mobile, Desktop",
@@ -124,13 +125,13 @@
             "Integrations": "50+ integrations available",
             "Pricing": "Paid plans starting from $5/month per user"
           }
-        },
-        {
+    },
+    {
           "id": 10,
           "name": "TrackingTime",
           "description": "TrackingTime is a simple and intuitive time tracking app suitable for individuals and small teams.",
           "url": "https://www.trackingtime.co/",
-          "image_url": "https://example.com/trackingtime.png",
+          "image_url": "https://picsum.photos/200",
           "value": "trackingtime",
           "keyValueDescriptors": {
             "Platform": "Web, Mobile",
@@ -138,13 +139,13 @@
             "Integrations": "15+ integrations available",
             "Pricing": "Free plan available, Paid plans starting from $5/month per user"
           }
-        },
-        {
+    },
+    {
           "id": 11,
           "name": "DeskTime",
           "description": "DeskTime is an automatic time tracking software with productivity analysis and employee monitoring features.",
           "url": "https://desktime.com/",
-          "image_url": "https://example.com/desktime.png",
+          "image_url": "https://picsum.photos/200",
           "value": "desktime",
           "keyValueDescriptors": {
             "Platform": "Web, Desktop, Mobile",
@@ -152,13 +153,13 @@
             "Integrations": "Limited integrations available",
             "Pricing": "Paid plans starting from $7/user per month"
           }
-        },
-        {
+    },
+    {
           "id": 12,
           "name": "TimeCamp",
           "description": "TimeCamp is a time tracking and invoicing software that offers detailed reports and integrations with popular tools.",
           "url": "https://www.timecamp.com/",
-          "image_url": "https://example.com/timecamp.png",
+          "image_url": "https://picsum.photos/200",
           "value": "timecamp",
           "keyValueDescriptors": {
             "Platform": "Web, Mobile, Desktop",
@@ -166,13 +167,13 @@
             "Integrations": "100+ integrations available",
             "Pricing": "Paid plans starting from $7/month per user"
           }
-        },
-        {
+    },
+    {
           "id": 13,
           "name": "Wrike",
           "description": "Wrike is a powerful project management and collaboration tool with built-in time tracking capabilities.",
           "url": "https://www.wrike.com/",
-          "image_url": "https://example.com/wrike.png",
+          "image_url": "https://picsum.photos/200",
           "value": "wrike",
           "keyValueDescriptors": {
             "Platform": "Web, Mobile, Desktop",
@@ -180,13 +181,13 @@
             "Integrations": "80+ integrations available",
             "Pricing": "Paid plans starting from $9.80/month per user"
           }
-        },
-        {
+    },
+    {
           "id": 14,
           "name": "TMetric",
           "description": "TMetric is a time tracking and productivity tool designed for freelancers, agencies, and small businesses.",
           "url": "https://tmetric.com/",
-          "image_url": "https://example.com/tmetric.png",
+          "image_url": "https://picsum.photos/200",
           "value": "tmetric",
           "keyValueDescriptors": {
             "Platform": "Web, Desktop, Mobile",
@@ -194,13 +195,13 @@
             "Integrations": "40+ integrations available",
             "Pricing": "Paid plans starting from $5/month per user"
           }
-        },
-        {
+    },
+    {
           "id": 15,
           "name": "Timeular",
           "description": "Timeular is a physical device that tracks time and helps you visualize and optimize your daily activities.",
           "url": "https://timeular.com/",
-          "image_url": "https://example.com/timeular.png",
+          "image_url": "https://picsum.photos/200",
           "value": "timeular",
           "keyValueDescriptors": {
             "Platform": "Physical device, Mobile app",
@@ -208,9 +209,6 @@
             "Integrations": "Limited integrations available",
             "Pricing": "Device purchase required"
           }
-        }
+    }
       ]
-      
-    
-  ]
-  
+  }
