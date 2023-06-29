@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+}
+
+#app {
+    background-color: F9F9F9;
+}
+.todoList {
+    display: flex;
+    flex-wrap: wrap;
+}
+.todoItemContainer {
+    background-color: azure;
+    padding: 10px;
+    margin: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    max-width: 300px;
+    min-width: 300px;
+}
+
+.editModalContainer {
+    height: 300px;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: aqua;
+    opacity: 0.9;
+    padding: 15px;
+    position: absolute !important;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+#editName, #editDescription {
+margin-bottom: 20px;
+}
+
